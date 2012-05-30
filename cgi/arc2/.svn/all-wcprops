@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2
+END
+ARC2_Reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2/ARC2_Reader.php
+END
+ARC2_Class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2/ARC2_Class.php
+END
+ARC2_Resource.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2/ARC2_Resource.php
+END
+ARC2_getPreferredFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2/ARC2_getPreferredFormat.php
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2/.gitignore
+END
+ARC2_getFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2/ARC2_getFormat.php
+END
+Graphite.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2/Graphite.php
+END
+ARC2_TestHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2/ARC2_TestHandler.php
+END
+ARC2.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/mashup_project/!svn/ver/7/trunk/web/query-builder/cgi/arc2/ARC2.php
+END

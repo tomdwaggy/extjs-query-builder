@@ -1,0 +1,31 @@
+img.x-tree-icon-parent.namespace {
+	background-image: url('../icons/namespace.png');
+}
+
+img.x-tree-icon-parent.class, img.x-tree-icon-leaf.class {
+        background-image: url('../icons/class.png');
+}
+
+img.x-tree-icon-parent.property, img.x-tree-icon-leaf.property {
+        background-image: url('../icons/property.png');
+}
+
+img.x-tree-icon-leaf.range {
+        background-image: url('../icons/range.png');
+}
+
+img.x-tree-icon-parent.negative, img.x-tree-icon-leaf.negative {
+        background-image: url('../icons/negative.png');
+}
+
+img.x-tree-icon-parent.positive, img.x-tree-icon-leaf.positive {
+        background-image: url('../icons/positive.png');
+}
+
+img.x-tree-icon-parent.question, img.x-tree-icon-leaf.question {
+        background-image: url('../icons/question.png');
+}
+
+.x-grid-dirty-cell {
+     background-image:none;
+}
